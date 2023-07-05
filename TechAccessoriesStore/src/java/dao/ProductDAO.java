@@ -7,6 +7,7 @@ package dao;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
 import model.*;
@@ -18,8 +19,10 @@ import model.*;
 public class ProductDAO extends DBContext {
 
     public static void main(String[] args) {
-        ProductDAO ProductDAO = new ProductDAO();
-        System.out.println(ProductDAO.getProduct("2", "", 1, "1"));
+        LocalTime currentTime = LocalTime.now();
+
+        // Print the current time
+        System.out.println("abc" + currentTime);
     }
 
     public ArrayList<Product> getProduct(String cid, String search, int index, String sort) {
@@ -208,7 +211,7 @@ public class ProductDAO extends DBContext {
         }
     }
 
-    public void EditCategory(String name ,String id) {
+    public void EditCategory(String name, String id) {
         String sql = " update [Category] set [category_name] = ? where [category_id] = ?";
         try {
             PreparedStatement ps = connection.prepareStatement(sql);
