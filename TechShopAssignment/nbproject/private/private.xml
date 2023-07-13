@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/controllers/CheckoutController.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/web/productlist.jsp</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/shopping/Category.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/shopping/Product.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/controllers/HomeController.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/web/managerProduct.jsp</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/web/home.jsp</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/controllers/ProductListController.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/controllers/ManagerProductController.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/web/cart.jsp</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/FIlter/AuthenFilter.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/controllers/AddController.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/controllers/AddNewProductController.java</file>
+            <file>file:/D:/NetBeansProjects/FlowerShop/FlowerShop/TechShopAssignment/src/java/sample/shopping/ProductDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
